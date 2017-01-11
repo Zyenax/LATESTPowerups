@@ -1,0 +1,8 @@
+name: RiotPowerups
+version: 1.0
+main: net.riotpowerups.main.RiotPowerups
+author: Zyenax
+commands:
+  test:
+    description: Open the menu to place a powerup!
+depend: [RiotCore]
